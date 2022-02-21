@@ -1,2 +1,3 @@
 # Project_mock_up
-A fake project
+
+This is a fake project to play wuth git
